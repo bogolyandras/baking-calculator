@@ -20,7 +20,7 @@
     "url": "https://github.com/bogolyandras/baking-calculator/issues"
   },
   "homepage": "https://github.com/bogolyandras/baking-calculator#readme",
-  "devDependencies": {
+  "dependencies": {
     "@tsconfig/node16": "^1.0.2",
     "@types/jest": "^27.4.1",
     "jest": "^27.5.1",
