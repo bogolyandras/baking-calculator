@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/bogolyandras/baking-calculator.git"
   },
-  "author": "Andras BÖGÖLY",
+  "author": "Andras BÖGÖLY <andras.bogoly.91@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bogolyandras/baking-calculator/issues"
