@@ -1,5 +1,6 @@
-import {Ingredient} from "../lib";
+import {Ingredients} from "../src/ingredients";
+import {Fermentation} from "../src/fermentation";
 
 test('Is flour', () => {
-    expect(Ingredient.name).toBe('Flour')
+    expect(Ingredients.WHITE_FLOUR.Name).toBe('White Flour')
 })
